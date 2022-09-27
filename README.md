@@ -1,6 +1,6 @@
 # Analysis of FBI Hate Crime Statistics dataset
 
-## Project summary
+## Project Abstract
 Using the FBI's Hate Crime Statistics [dataset](https://crime-data-explorer.fr.cloud.gov/pages/downloads#datasets) with data on hate crimes in the U.S. from 1991 to 2020, I was able to analyze data specifically on anti-Asian hate crimes. The dataset, with updated 2020 data released in October 2021, consists of 219,577 crimes over the span of 29 years, with 6,462 of those crimes against Asians. 
 
 ## Comparing 2019 and 2020
