@@ -11,4 +11,4 @@ The dataset also consists of information on the locations of crimes. Categories 
 
 ## Conclusion
 
-The data shows that the year 2020, along with a global pandemic, ushered in a wave of xenophobic, anti-Asian sentiment that resulted in a rise in anti-Asian violence. Other datasets show alarming numbers for 2021 as well, indicating the need for greater action to combat the rise of anti-Asian violence.
+The data shows that the year 2020, when the world was hit by a global pandemic, ushered in a wave of xenophobic, anti-Asian sentiment that resulted in a rise in anti-Asian violence. Other datasets show alarming numbers for 2021 as well, indicating the need for greater action to combat the rise of anti-Asian violence.
